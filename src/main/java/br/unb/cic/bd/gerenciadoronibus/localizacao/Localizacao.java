@@ -1,4 +1,4 @@
-package br.unb.cic.bd.gerenciadoronibus.marechal;
+package br.unb.cic.bd.gerenciadoronibus.localizacao;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

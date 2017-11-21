@@ -6,7 +6,7 @@ import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import br.unb.cic.bd.gerenciadoronibus.marechal.Localizacao;
+import br.unb.cic.bd.gerenciadoronibus.localizacao.Localizacao;
 
 /**
  * Hello world!
